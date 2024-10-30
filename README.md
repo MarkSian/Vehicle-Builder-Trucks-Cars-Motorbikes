@@ -1,0 +1,2 @@
+# Vehicle Builder Trucks/Cars/Motorbikes
+ An application where you can create vehicles or select preset vehicles. Locate the file holding the application through the terminal and start with the command "npm install". Continue by executing "npm run start".  Fill out the prompts as they appear and you have now made your vehicle and are able to various actions. Vehicles include trucks and motorbikes as well.
